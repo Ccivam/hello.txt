@@ -1,8 +1,5 @@
-phone
-
-touchscreen
-scratchless-gorilla glass
 this is my first file on github
-whatsup
+whatssup
 today date is 5 october
 hey
+shivam kumar
